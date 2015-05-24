@@ -16,17 +16,17 @@ Functionalities
 ## Start to develop
 
 It's a good practice to use a virtual environment.
-If you doesn't have '''virtualenv''', use the command '''pip install virtualenv'''.
-And at project folder run '''virtualenv env'''. This is gonna create a folder env inside the actual folder.
-To start the virtual environment run '''source env/bin/activate'''.
+If you doesn't have ```virtualenv```, use the command ```pip install virtualenv```.
+And at project folder run ```virtualenv env```. This is gonna create a folder env inside the actual folder.
+To start the virtual environment run ```source env/bin/activate```.
 To end the virtual environment run deactivate.
 
 ### Necessary libs for develop a API
 
-'''pip install django djangorestframework'''
+```pip install django djangorestframework```
 The command above is gonna install django and djangorestframework.
 
 ### Run tests
 
-'''manage.py test'''
+```manage.py test```
 
