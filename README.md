@@ -8,9 +8,10 @@ Todo
 - description: string
 - done: boolean
 
+Functionalities
 - Add a new todo(description, done): done should not appear or be accept during a post.
 - Update a todo: update description and/or done field.
-- Add
+- Get a list of todo's.
 
 ## Start to develop
 
